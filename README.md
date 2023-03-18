@@ -1,4 +1,5 @@
 # Phone-Hunter
+Issue Source (Link): https://github.com/ProgrammingHero1/broken-phone
 
 ## API Links
 
@@ -8,10 +9,12 @@ URL Format: https://openapi.programming-hero.com/api/phones?search=${searchText}
 Example: https://openapi.programming-hero.com/api/phones?search=iphone
 
 
+
 ### Phone Detail URL:
 URL Format: https://openapi.programming-hero.com/api/phone/${id}
 
 Example: https://openapi.programming-hero.com/api/phone/apple_iphone_13_pro_max-11089
+
 
 
 ## Issue List:
